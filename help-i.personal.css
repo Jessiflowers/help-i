@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+#aviso {
+	border: solid gray;
+	padding: 10px;
+	border-radius: 15px;
+	margin-top: 40px;
+}
